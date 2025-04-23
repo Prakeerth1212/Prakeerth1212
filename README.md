@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prakeerth1212
+- 👋 Hi, I’m @Prakeerth G Achar
 - 👀 I’m interested in Software development AND Electronics
 - 🌱 I’m currently learning Full Stack Web Development followed by VLSI designing
 - 💞️ I’m looking to collaborate on any projects
