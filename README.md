@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](www.linkedin.com/in/prakeerth-g-8748a6342)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/prakeerth-g-8748a6342)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakeerth.g.achar@gmail.com) 
 
 # 💻 Tech Stack:
