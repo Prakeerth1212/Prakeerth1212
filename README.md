@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Prakeerth G Achar
-- 👀 I’m interested in Software development AND Electronics
-- 🌱 I’m currently learning Full Stack Web Development followed by VLSI designing
+- 👀 I’m interested in DATA SCIENCE 
+- 🌱 I’m currently learning RUST
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me: prakeerth.g.achar@gmail.com
 
 
 
