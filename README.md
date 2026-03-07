@@ -4,7 +4,6 @@
 
 - 🌱 Currently learning **Machine Learning & Deep Learning**
 - 💡 Interested in **AI, Data Science, and Backend Development**
-- 📫 Reach me at: **prakeerth.g.achar@gmail.com**
 
 ---
 
