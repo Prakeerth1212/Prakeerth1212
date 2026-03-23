@@ -3,7 +3,7 @@
 🎓 Student | 💻 Developer | 📊 Data Science Enthusiast  
 
 -  Currently learning **Machine Learning & Deep Learning**
--  Interested in **AI, Data Science, and Backend Development**
+-  Interested in **AIML, Data Science, and Backend Development**
 
 ---
 
