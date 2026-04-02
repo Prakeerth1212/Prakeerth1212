@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prakeerth
     
-🎓 Student | 💻 Developer | 📊 Data Science Enthusiast  
+🎓 Student | 💻 Developer | 📊 Data Science Enthusiast        
 
 -  Currently learning **Machine Learning & Deep Learning**
 -  Interested in **AIML, Data Science, and Backend Development**
